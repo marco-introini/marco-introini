@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Marco "Mint" Introini, Full Stack Developer from Italy!
+
+
 
 <!--
 **marco-introini/marco-introini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
