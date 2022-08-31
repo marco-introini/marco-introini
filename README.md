@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Marco "Mint" Introini, Full Stack Developer from Italy!
+I'm Marco "Mint" Introini, Backend Stack Developer from Italy!
+I'm also an APIs and Security Engineer
 
 
 
