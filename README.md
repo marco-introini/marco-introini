@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm Marco "Mint" Introini, Backend Developer from Italy!
+
 I'm also an APIs and Security Engineer
-
-
 
 <!--
 **marco-introini/marco-introini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
