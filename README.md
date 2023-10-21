@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Marco "Mint" Introini, WEB artisan from Italy!
+
 I love to create secure Backend Applications, in Laravel, Rust, and Kotlin.
 
 
