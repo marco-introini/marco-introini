@@ -1,8 +1,10 @@
 ### Hi there 👋
-I'm Marco "Mint" Introini, WEB artisan from Italy!
+I'm Marco "Mint" Introini, a WEB artisan from Italy!
 
-I love to create secure Backend Applications, in Laravel, Rust, and Kotlin.
+I love to create secure Backend Applications in Laravel/PHP, Go, Rust, and Kotlin.
 
+- 🔭 I’m currently working on LookMyPics, a distraction-free image web viewer
+- 🌱 I’m currently learning Go and Rust
 
 <!--
 **marco-introini/marco-introini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
